@@ -1,1 +1,2 @@
-what
+
+console.log("somethinfg");
