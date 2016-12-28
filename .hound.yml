@@ -1,2 +1,2 @@
-java_script:
-  config_file: javascript.json
+credo:
+  enabled: true
