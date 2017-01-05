@@ -3,6 +3,7 @@ defmodule App.Api.V1.TokenControllerTest do
 
   alias App.StubFacebook
 
+
   require App.StubFacebook
 
   test "with a valid facebook_token it returns an auth token" do
